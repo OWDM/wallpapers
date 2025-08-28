@@ -1,9 +1,5 @@
-# wallpapers
-
-Beautiful wallpapers collection
 
 ## Gallery
-
 
 ### minimal-gradient-1.png
 ![minimal-gradient-1.png](gallery/minimal-gradient-1.png)
