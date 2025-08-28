@@ -4,8 +4,6 @@ Beautiful wallpapers collection
 
 ## Gallery
 
-### hiroshi-nagai-coastline.png
-![hiroshi-nagai-coastline.png](gallery/hiroshi-nagai-coastline.png)
 
 ### minimal-gradient-1.png
 ![minimal-gradient-1.png](gallery/minimal-gradient-1.png)
@@ -21,6 +19,9 @@ Beautiful wallpapers collection
 
 ### minimal-gradient-5.png
 ![minimal-gradient-5.png](gallery/minimal-gradient-5.png)
+
+### hiroshi-nagai-coastline.png
+![hiroshi-nagai-coastline.png](gallery/hiroshi-nagai-coastline.png)
 
 ### mountain-galaxy.png
 ![mountain-galaxy.png](gallery/mountain-galaxy.png)
